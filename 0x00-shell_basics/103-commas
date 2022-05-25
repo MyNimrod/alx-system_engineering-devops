@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -lamFv
-echo "\n"
+ls -lamFv; echo "\n"
