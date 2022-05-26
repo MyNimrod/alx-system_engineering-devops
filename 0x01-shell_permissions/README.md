@@ -7,3 +7,4 @@
 6-multiple_permissions adds u+x g+x o+r
 7-everybody dds execution permission to u g o
 8-James_Bond  set permission to u none g none o all
+9-John_Doe  set permission to u rwx g r-x o -wx
