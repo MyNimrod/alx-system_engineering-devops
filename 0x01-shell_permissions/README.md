@@ -10,3 +10,4 @@
 9-John_Doe  set permission to u rwx g r-x o -wx
 10-mirror_permissions  set permission similar to file olleh
 11-directories_permissions adds execute permission to all subdirectories of the current directory 
+12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory
