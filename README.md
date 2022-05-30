@@ -1,2 +1,3 @@
 ##alx-system_engineering-devops
-Shell, Navigation, scripting 
+0x00-shell_basics/   --> shell scripting introduction
+0x01-shell_permissions/ --> Shell permissions 
