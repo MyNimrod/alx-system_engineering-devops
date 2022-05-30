@@ -1,2 +1,3 @@
 ## shell_redirections
 0-hello_world prints hello, world
+1-confused_smiley prints "(Ôo)'
