@@ -12,3 +12,15 @@ Keep the private key to yourself in a secure location, you will use it later to 
 If you decide to add a passphrase to your key, make sure to save this passphrase in a secure location, you will not be able to use your keys without the passphrase
 SSH and RSA keys will be covered in depth in a later project.
 Files-->0-RSA_public_key.pub
+###1. For Best School loop
+Write a Bash script that displays Best School 10 times.
+
+Requirement:
+
+You must use the for loop (while and until are forbidden)
+Note that:
+
+The first line of my Bash script starts with #!/usr/bin/env bash
+The second line of my Bash scripts is a comment explaining what it is doing
+Files--> 1-for_best_school
+
