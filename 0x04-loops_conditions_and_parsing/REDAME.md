@@ -107,3 +107,14 @@ if the file is not empty: school file is not empty
 if the file is a regular file: school is a regular file
 if the file is not a regular file: (nothing)
 Files--> 9-to_file_or_not_to_file
+###10-fizzbuzz
+Write a Bash script that displays numbers from 1 to 100.
+
+Requirements:
+
+Displays FizzBuzz when the number is a multiple of 3 and 5
+Displays Fizz when the number is multiple of 3
+Displays Buzz when the number is a multiple of 5
+Otherwise, displays the number
+In a list format
+Files--> 10-fizzbuzz
