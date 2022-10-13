@@ -118,3 +118,17 @@ Displays Buzz when the number is a multiple of 5
 Otherwise, displays the number
 In a list format
 Files--> 10-fizzbuzz
+###100-read_and_cut
+help: read
+
+Write a Bash script that displays the content of the file /etc/passwd.
+
+Your script should only display:
+
+username
+user id
+Home directory path for the user
+Requirements:
+
+You must use the while loop (for and until are forbidden)
+Files-->100-read_and_cut
