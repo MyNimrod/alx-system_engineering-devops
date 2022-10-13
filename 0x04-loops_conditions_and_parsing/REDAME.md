@@ -147,3 +147,21 @@ Requirements:
 
 You must use the while loop (for and until are forbidden)
 Files--> 101-tell_the_story_of_passwd
+###102-lets_parse_apache_log
+Apache is among the most popular web servers in the world, serving 50% of all active websites, no doubt that you will have to interact with it within your career.
+
+As a Full-Stack Software Engineer, you have to master the art of parsing log files. Today we will do a simple parsing of Apache log access files.
+
+Today the Customer Support department reported that a user reported that the site is being “buggy”. Not being a detailed description, you want to have a look at the Apache logs and gather data about the traffic.
+
+Write a Bash script that displays the visitor IP along with the HTTP status code from the Apache log file.
+
+Requirement:
+
+Format: IP HTTP_CODE
+in a list format
+See example
+You must use awk
+You are not allowed to use while, for, until and cut
+Download and commit the apache-access.log file along with your answers files
+Files--> 102-lets_parse_apache_logs
