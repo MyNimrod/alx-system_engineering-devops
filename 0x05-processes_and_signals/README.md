@@ -61,6 +61,11 @@ Make a copy of your 6-stop_me_if_you_can script, name it 67-stop_me_if_you_can, 
 
 Terminal #0
 Files-->7-highlander
+###8-beheaded_process
+Write a Bash script that kills the process 7-highlander.
+
+Terminal #0
+Files--> 8-beheaded_process
 ~
 ~
 
