@@ -43,6 +43,14 @@ Requirements:
 You must use kill
 Terminal #0
 Files--> 5-dont_stop_me_now
+###6-stop_me_if_you_can
+Write a Bash script that stops 4-to_infinity_and_beyond process.
+
+Requirements:
+
+You cannot use kill or killall
+Terminal #0
+Files--> 6-stop_me_if_you_can
 ~
 ~
 
