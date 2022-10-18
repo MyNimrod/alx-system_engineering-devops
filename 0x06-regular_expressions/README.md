@@ -49,4 +49,8 @@ This task is brought to you by a professional advisor Neha Jain, Senior Software
 Requirement:
 
 The regular expression must match a 10 digit phone number
+###7-OMG_WHY_ARE_YOU_SHOUTING.rb
+Requirement:
+
+The regular expression must be only matching: capital letters
 
