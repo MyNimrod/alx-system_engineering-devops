@@ -1,6 +1,9 @@
-##0x09-web_infrastructure_design
+## 0x09-web_infrastructure_design
+
 This project is a collection of web infrastructure designs that could be implemented in any web development project.
-###0-simple_web_stack
+
+### 0-simple_web_stack
+
 A lot of websites are powered by simple web infrastructure, a lot of time it is composed of a single server with a LAMP stack.
 
 On a whiteboard, design a one server web infrastructure that hosts the website that is reachable via www.foobar.com. Start your explanation by having a user wanting to access your website.
@@ -27,7 +30,9 @@ SPOF
 Downtime when maintenance needed (like deploying new code web server needs to be restarted)
 Cannot scale if too much incoming traffic
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
-###1-distributed_web_infrastructure
+
+### 1-distributed_web_infrastructure
+
 On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com, it must be secured, serve encrypted traffic, and be monitored.
 
 Requirements:
@@ -48,7 +53,9 @@ Why terminating SSL at the load balancer level is an issue
 Why having only one MySQL server capable of accepting writes is an issue
 Why having servers with all the same components (database, web server and application server) might be a problem
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
-###2-secured_and_monitored_web_infrastructure
+
+### 2-secured_and_monitored_web_infrastructure
+
 On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com, it must be secured, serve encrypted traffic, and be monitored.
 
 Requirements:
