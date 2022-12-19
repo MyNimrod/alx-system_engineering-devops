@@ -19,8 +19,8 @@ frontend haproxynode
 backend backendnodes
     balance roundrobin
     option forwardfor
-    server 58725-web-01 100.25.188.104:80 check
-    server 58725-web-02 100.26.142.13:80 check
+    server 58725-web-01 35.153.226.253:80 check
+    server 58725-web-02 100.25.212.125:80 check
 
 listen stats
     bind :32700
