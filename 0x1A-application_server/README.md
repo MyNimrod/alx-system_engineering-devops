@@ -9,3 +9,12 @@ This was the application deployment project for our AirBnB clone.
   [AirBnB_clone_v2](https://github.com/bdbaraban/AirBnB_clone_v2) to serve content
   on the route `/airbnb-onepage/`, running on port `5000`.
 
+* **2. Serve a page with Nginx**
+  * [2-app_server-nginx_config](./2-app_server-nginx_config): Nginx configuration file
+  proxying requests on the route `/airbnb-onepage/` to the Gunicorn app running on
+  port `5000`.
+
+* **3. Add a route with query parameters**
+  * [3-app_server-nginx_config](./3-app_server-nginx_config): Nginx configuration file
+  proxying requests on the route `/airbnb-dynamic/number_odd_or_even/<int: num>` to the
+  Gunicorn app running on port `5000`.
